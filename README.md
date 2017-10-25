@@ -1,4 +1,4 @@
-### Selenium Headless Browser (Chrome)
+# Selenium Headless Browser (Chrome)
 ```
 from selenium.webdriver.chrome.options import Options
 
@@ -7,7 +7,7 @@ options.add_argument('--headless')
 ```
 - Tanpa membutuhkan library eksternal (tanpa pip install)
 
-## Usage
+### Usage
 ```
 $ python seleniumHeadlessChrome.py
 ```
